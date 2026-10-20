@@ -1,5 +1,5 @@
 // Parhai Dost service worker: lets the app open without internet after the first visit.
-const CACHE = "parhai-dost-v1";
+const CACHE = "parhai-dost-v2";
 const CORE = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png"];
 
 self.addEventListener("install", (e) => {
