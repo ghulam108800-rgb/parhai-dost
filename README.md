@@ -2,7 +2,7 @@
 
 A voice-first numeracy tutor for out-of-school children in Sindh, Pakistan. Children hear questions in **Sindhi or Urdu**, look at pictures from daily life, and answer by tapping. No reading, typing or login needed.
 
-Built by **Iftekhar An-Naafi**, Computer Science Teacher, Beaconhouse Nawabshah Campus, as a Teacher Project for **ILAP 2027** (Strategic Intent: Accessibility & Inclusion · SDG 10).
+Built by **Ghulam abbas**, Computer Science Teacher, Beaconhouse Nawabshah Campus, as a Teacher Project for **ILAP 2027** (Strategic Intent: Accessibility & Inclusion · SDG 10).
 
 ## Features
 
