@@ -67,8 +67,8 @@ button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid 
 .obj{font-size:2rem;line-height:1;transition:transform .25s, opacity .4s}
 .obj.away{opacity:.25;transform:translateX(18px) scale(.85);filter:grayscale(1)}
 .obj.pulse{transform:scale(1.35)}
-.op{font-size:2.6rem;font-weight:800;color:var(--madder);padding:0 6px}
-.bigear{font-size:4.5rem}
+.op{font-size:2rem;font-weight:800;color:var(--madder);padding:0 6px}
+.bigear{font-size:3.5rem}
 .word{font-size:1.4rem;color:var(--muted);direction:rtl}
 
 .answers{display:grid;grid-template-columns:repeat(auto-fit,minmax(96px,1fr));gap:12px}
@@ -79,12 +79,12 @@ button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid 
 .ans:disabled{cursor:default}
 @keyframes shake{25%{transform:translateX(-6px)}75%{transform:translateX(6px)}}
 
-.cheer{position:fixed;inset:0;display:grid;place-items:center;pointer-events:none;font-size:8rem;opacity:0}
+.cheer{position:fixed;inset:0;display:grid;place-items:center;pointer-events:none;font-size:6rem;opacity:0}
 .cheer.show{animation:cheer .9s ease-out}
 @keyframes cheer{0%{opacity:0;transform:scale(.4) rotate(-20deg)}40%{opacity:1;transform:scale(1.1) rotate(8deg)}100%{opacity:0;transform:scale(1.4) rotate(0)}}
 
 .start{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;text-align:center}
-.start .hello{font-size:5rem;line-height:1}
+.start .hello{font-size:3.5rem;line-height:1}
 .start h1{margin:0;font-size:2.2rem;line-height:1.3;direction:rtl}
 .start p{margin:0;color:var(--muted);max-width:30ch}
 .play{border:0;background:var(--madder);color:#fff;font-size:1.9rem;font-weight:800;padding:14px 46px;border-radius:999px;box-shadow:0 6px 0 #7d1f1d}
