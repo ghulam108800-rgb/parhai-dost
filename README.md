@@ -18,12 +18,6 @@ Built by **Ghulam abbas**, Computer Science Teacher, Beaconhouse Nawabshah Campu
 
 Open `index.html` in Chrome. For offline mode and "Add to Home screen", host it over HTTPS (GitHub Pages works).
 
-## Deploy on GitHub Pages
-
-1. Create a new public repository, e.g. `parhai-dost`.
-2. Upload all files in this folder (keep the `icons` folder).
-3. Go to **Settings → Pages**, set **Source** to *Deploy from a branch*, branch `main`, folder `/ (root)`, and save.
-4. After a minute the app is live at `https://<your-username>.github.io/parhai-dost/`.
 
 ## Voice note
 
